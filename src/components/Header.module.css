@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    background-color: indigo;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header h1 {
+    margin-left: 10rem;
+}
+
+.content{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    align-self: center;
+    margin-left: 25rem;
+    font-size: large;
+}
+
+.btn button{
+    background-color: yellow;
+    width: 5.5rem;
+    height: 2.5rem;
+    font-size: large;
+    border-radius: 8px;
+    margin-top: 1.2rem;
+    margin-left: 5rem;
+}

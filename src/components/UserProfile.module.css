@@ -1,0 +1,16 @@
+.user {
+    background-color: black;
+    display: flex;
+  }
+  
+  .user h1 {
+    display: block;
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 7px;
+    margin-top: 10rem;
+    text-align: center;
+    padding: 2rem;
+  }

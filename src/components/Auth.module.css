@@ -1,0 +1,32 @@
+.form {
+    background-color: black;
+    display: flex
+  }
+  
+  .auth {
+    display: block;
+    background-color: white;
+    width: 20%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 7px;
+    margin-top: 10rem;
+    line-height: 1.5;
+    text-align: center;
+  }
+  
+  .auth input {
+      width: 80%;
+      height: 1.5rem;
+  }
+  
+  .auth button {
+      background-color: indigo;
+      color: white;
+      width: 4.5rem;
+      height: 2.5rem;
+      font-weight: bold;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 7px;
+  }

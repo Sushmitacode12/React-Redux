@@ -1,0 +1,32 @@
+.counter {
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: flex
+}
+.value { 
+    display: block;
+background-color: white;
+    width: 20%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 7px;
+    margin-top: 10rem;
+}
+.value h1 {
+    color: indigo;
+    margin-left: 4.5rem;
+}
+.value h2 {
+    color: indigo;
+    margin-left: 10.5rem;
+    font-size: 2rem;
+}
+.value button {
+    background-color: indigo;
+    color: white;
+    padding: 9px;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+}
